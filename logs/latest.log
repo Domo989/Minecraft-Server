@@ -1,0 +1,310 @@
+[14:09:34] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[14:09:35] [ServerMain/INFO]: Found new data pack file/VanillaTweaks_c926959.zip, loading it automatically
+[14:09:35] [ServerMain/INFO]: Found new data pack file/armor_statues_v2.8.3.zip, loading it automatically
+[14:09:35] [ServerMain/INFO]: Found new data pack file/lodestone-warps-e3400.zip, loading it automatically
+[14:09:35] [ServerMain/INFO]: Found new data pack file/more_mob_heads_v2.9.4.zip, loading it automatically
+[14:09:35] [ServerMain/INFO]: Found new data pack file/technicalenchant-e450.zip, loading it automatically
+[14:09:38] [ServerMain/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[14:09:38] [ServerMain/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[14:09:38] [ServerMain/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[14:09:38] [ServerMain/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[14:09:38] [ServerMain/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[14:09:39] [Worker-Main-12/INFO]: Loaded 7 recipes
+[14:09:39] [Worker-Main-12/WARN]: Datapack tried to redefine minecraft:empty loot table, ignoring
+[14:09:40] [Worker-Main-12/WARN]: Found validation problem in {minecraft:blocks/deepslate_copper_ore}.pools[0].entries[0]: Unreachable entry!
+[14:09:40] [Worker-Main-12/WARN]: Found validation problem in {minecraft:blocks/redstone_ore}.pools[0].entries[0]: Unreachable entry!
+[14:09:40] [Worker-Main-12/WARN]: Found validation problem in {minecraft:blocks/deepslate_redstone_ore}.pools[0].entries[0]: Unreachable entry!
+[14:09:40] [Worker-Main-12/WARN]: Found validation problem in {minecraft:entities/ender_dragon}.pools[0].entries[0]: Unknown loot table called minecraft:entities/reference/extra/ender_dragon
+[14:09:40] [Worker-Main-12/WARN]: Found validation problem in {minecraft:blocks/nether_gold_ore}.pools[0].entries[0]: Unreachable entry!
+[14:09:40] [Worker-Main-12/WARN]: Found validation problem in {minecraft:entities/shulker}.pools[2].entries[0]: Unknown loot table called minecraft:entities/reference/extra/shulker
+[14:09:40] [Worker-Main-12/WARN]: Found validation problem in {minecraft:blocks/lapis_ore}.pools[0].entries[0]: Unreachable entry!
+[14:09:40] [Worker-Main-12/WARN]: Found validation problem in {minecraft:blocks/deepslate_lapis_ore}.pools[0].entries[0]: Unreachable entry!
+[14:09:40] [Worker-Main-12/WARN]: Found validation problem in {minecraft:blocks/copper_ore}.pools[0].entries[0]: Unreachable entry!
+[14:09:40] [Worker-Main-12/INFO]: Loaded 1194 advancements
+[14:09:42] [Server thread/INFO]: Starting minecraft server version 1.18.2
+[14:09:42] [Server thread/INFO]: Loading properties
+[14:09:42] [Server thread/INFO]: Default game type: SURVIVAL
+[14:09:42] [Server thread/INFO]: Generating keypair
+[14:09:42] [Server thread/INFO]: Starting Minecraft server on *:25565
+[14:09:43] [Server thread/INFO]: Using default channel type
+[14:09:43] [Server thread/INFO]: Preparing level "world"
+[14:09:43] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[14:09:45] [Worker-Main-20/INFO]: Preparing spawn area: 0%
+[14:09:45] [Worker-Main-20/INFO]: Preparing spawn area: 0%
+[14:09:45] [Worker-Main-20/INFO]: Preparing spawn area: 0%
+[14:09:45] [Worker-Main-17/INFO]: Preparing spawn area: 0%
+[14:09:46] [Worker-Main-20/INFO]: Preparing spawn area: 0%
+[14:09:46] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[14:09:47] [Worker-Main-22/INFO]: Preparing spawn area: 4%
+[14:09:47] [Worker-Main-13/INFO]: Preparing spawn area: 10%
+[14:09:48] [Worker-Main-17/INFO]: Preparing spawn area: 31%
+[14:09:48] [Worker-Main-16/INFO]: Preparing spawn area: 82%
+[14:09:49] [Server thread/INFO]: Time elapsed: 5030 ms
+[14:09:49] [Server thread/INFO]: Done (5.567s)! For help, type "help"
+[14:09:54] [User Authenticator #1/INFO]: UUID of player Digicraftgames is 78dc415f-ee86-43ef-9523-ef67535d8e17
+[14:09:54] [Server thread/INFO]: Digicraftgames[/71.236.111.96:52976] logged in with entity id 220 at (-91.91521488381065, 70.0, -168.38442189198398)
+[14:09:54] [Server thread/INFO]: Digicraftgames joined the game
+[14:09:56] [User Authenticator #2/INFO]: UUID of player VaporizingLuck is 25a7a084-2b98-47e1-b7de-e85c35e2d714
+[14:09:56] [Server thread/INFO]: VaporizingLuck[/192.168.1.1:58968] logged in with entity id 262 at (-90.92565577857022, 69.0, -163.967044320109)
+[14:09:56] [Server thread/INFO]: VaporizingLuck joined the game
+[14:10:10] [User Authenticator #3/INFO]: UUID of player EisigNacht is 811babaa-79f2-49fb-94f3-128fddcf0392
+[14:10:10] [Server thread/INFO]: EisigNacht[/71.236.111.96:56475] logged in with entity id 266 at (-89.5, 68.0, -151.5)
+[14:10:10] [Server thread/INFO]: EisigNacht joined the game
+[14:10:15] [Server thread/INFO]: [Digicraftgames: Reloading!]
+[14:10:15] [Server thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[14:10:15] [Server thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[14:10:15] [Server thread/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[14:10:15] [Server thread/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[14:10:15] [Server thread/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[14:10:15] [Server thread/INFO]: Loaded 7 recipes
+[14:10:15] [Server thread/WARN]: Datapack tried to redefine minecraft:empty loot table, ignoring
+[14:10:15] [Server thread/WARN]: Found validation problem in {minecraft:blocks/deepslate_copper_ore}.pools[0].entries[0]: Unreachable entry!
+[14:10:15] [Server thread/WARN]: Found validation problem in {minecraft:blocks/redstone_ore}.pools[0].entries[0]: Unreachable entry!
+[14:10:15] [Server thread/WARN]: Found validation problem in {minecraft:blocks/deepslate_redstone_ore}.pools[0].entries[0]: Unreachable entry!
+[14:10:15] [Server thread/WARN]: Found validation problem in {minecraft:entities/ender_dragon}.pools[0].entries[0]: Unknown loot table called minecraft:entities/reference/extra/ender_dragon
+[14:10:15] [Server thread/WARN]: Found validation problem in {minecraft:blocks/nether_gold_ore}.pools[0].entries[0]: Unreachable entry!
+[14:10:15] [Server thread/WARN]: Found validation problem in {minecraft:entities/shulker}.pools[2].entries[0]: Unknown loot table called minecraft:entities/reference/extra/shulker
+[14:10:15] [Server thread/WARN]: Found validation problem in {minecraft:blocks/lapis_ore}.pools[0].entries[0]: Unreachable entry!
+[14:10:15] [Server thread/WARN]: Found validation problem in {minecraft:blocks/deepslate_lapis_ore}.pools[0].entries[0]: Unreachable entry!
+[14:10:15] [Server thread/WARN]: Found validation problem in {minecraft:blocks/copper_ore}.pools[0].entries[0]: Unreachable entry!
+[14:10:15] [Server thread/INFO]: Loaded 1194 advancements
+[14:11:34] [Server thread/INFO]: [VaporizingLuck: Gamerule playersSleepingPercentage is now set to: 50]
+[14:11:38] [Server thread/INFO]: [VaporizingLuck: Gamerule playersSleepingPercentage is now set to: 1]
+[14:12:24] [User Authenticator #4/INFO]: UUID of player PurpleExorcist is 0b759846-caa1-4202-b084-ec635c7a100e
+[14:12:24] [Server thread/INFO]: PurpleExorcist[/72.65.247.58:51066] logged in with entity id 521 at (-70.5, 68.0, -168.5)
+[14:12:24] [Server thread/INFO]: PurpleExorcist joined the game
+[14:13:08] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-80, y=68, z=-169}
+[14:13:14] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-79, y=68, z=-169}
+[14:13:14] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-80, y=68, z=-169}
+[14:13:14] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-81, y=68, z=-169}
+[14:13:15] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-81, y=68, z=-169}
+[14:14:06] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-86, y=68, z=-171}
+[14:14:25] [Server thread/INFO]: <PurpleExorcist> Im the non-deerlaker
+[14:14:26] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-97, y=68, z=-162} gj{x=-96, y=72, z=-164}
+[14:14:36] [Server thread/INFO]: <EisigNacht> I heard you say "me"
+[14:14:44] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-93, y=70, z=-171}
+[14:14:51] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-97, y=75, z=-162} gj{x=-93, y=70, z=-171}
+[14:14:52] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-97, y=75, z=-162} gj{x=-93, y=70, z=-171}
+[14:14:52] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-97, y=75, z=-162} gj{x=-93, y=70, z=-171}
+[14:14:52] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-97, y=75, z=-162} gj{x=-93, y=70, z=-171}
+[14:14:53] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-94, y=70, z=-174}
+[14:14:59] [Server thread/INFO]: PurpleExorcist fell out of the world
+[14:14:59] [Server thread/INFO]: [VaporizingLuck: Killed PurpleExorcist]
+[14:15:07] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-93, y=70, z=-171}
+[14:15:08] [Server thread/INFO]: <EisigNacht> Why the hell am I the only one getting block lag
+[14:15:14] [Server thread/INFO]: <EisigNacht> Nvm..
+[14:16:07] [Server thread/INFO]: PurpleExorcist didn't want to live in the same world as VaporizingLuck
+[14:16:07] [Server thread/INFO]: [VaporizingLuck: Killed PurpleExorcist]
+[14:16:32] [Server thread/INFO]: PurpleExorcist has made the advancement [Monster Hunter]
+[14:16:53] [Server thread/INFO]: VaporizingLuck has made the advancement [Stone Age]
+[14:17:14] [Server thread/INFO]: VaporizingLuck has made the advancement [Getting an Upgrade]
+[14:17:37] [Server thread/INFO]: PurpleExorcist has made the advancement [Stone Age]
+[14:17:40] [Server thread/INFO]: <EisigNacht> Who
+[14:17:42] [Server thread/INFO]: <EisigNacht> ..
+[14:17:52] [Server thread/INFO]: <EisigNacht> Who's going to be the builder?
+[14:17:59] [Server thread/INFO]: <EisigNacht> Oh
+[14:18:28] [Server thread/INFO]: VaporizingLuck has made the advancement [Monster Hunter]
+[14:18:30] [Server thread/INFO]: PurpleExorcist has made the advancement [Getting an Upgrade]
+[14:21:46] [Server thread/INFO]: PurpleExorcist has made the advancement [Acquire Hardware]
+[14:21:50] [Server thread/INFO]: PurpleExorcist has made the advancement [Suit Up]
+[14:22:27] [Server thread/INFO]: EisigNacht has made the advancement [Stone Age]
+[14:23:11] [Server thread/INFO]: Digicraftgames was slain by Zombie
+[14:23:22] [Server thread/INFO]: EisigNacht has made the advancement [Getting an Upgrade]
+[14:24:36] [Server thread/INFO]: PurpleExorcist has made the advancement [Isn't It Iron Pick]
+[14:25:00] [Server thread/INFO]: EisigNacht has made the advancement [Monster Hunter]
+[14:26:48] [Server thread/INFO]: [VaporizingLuck: Enabling data pack [file/VanillaTweaks_r212442 (1).zip (world)]]
+[14:26:48] [Server thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[14:26:48] [Server thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[14:26:48] [Server thread/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[14:26:48] [Server thread/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[14:26:48] [Server thread/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[14:26:48] [Server thread/INFO]: Loaded 7 recipes
+[14:26:48] [Server thread/WARN]: Datapack tried to redefine minecraft:empty loot table, ignoring
+[14:26:48] [Server thread/WARN]: Found validation problem in {minecraft:blocks/deepslate_copper_ore}.pools[0].entries[0]: Unreachable entry!
+[14:26:48] [Server thread/WARN]: Found validation problem in {minecraft:blocks/redstone_ore}.pools[0].entries[0]: Unreachable entry!
+[14:26:48] [Server thread/WARN]: Found validation problem in {minecraft:blocks/deepslate_redstone_ore}.pools[0].entries[0]: Unreachable entry!
+[14:26:48] [Server thread/WARN]: Found validation problem in {minecraft:entities/ender_dragon}.pools[0].entries[0]: Unknown loot table called minecraft:entities/reference/extra/ender_dragon
+[14:26:48] [Server thread/WARN]: Found validation problem in {minecraft:blocks/nether_gold_ore}.pools[0].entries[0]: Unreachable entry!
+[14:26:48] [Server thread/WARN]: Found validation problem in {minecraft:entities/shulker}.pools[2].entries[0]: Unknown loot table called minecraft:entities/reference/extra/shulker
+[14:26:48] [Server thread/WARN]: Found validation problem in {minecraft:blocks/lapis_ore}.pools[0].entries[0]: Unreachable entry!
+[14:26:48] [Server thread/WARN]: Found validation problem in {minecraft:blocks/deepslate_lapis_ore}.pools[0].entries[0]: Unreachable entry!
+[14:26:48] [Server thread/WARN]: Found validation problem in {minecraft:blocks/copper_ore}.pools[0].entries[0]: Unreachable entry!
+[14:26:48] [Server thread/INFO]: Loaded 1194 advancements
+[14:26:59] [Server thread/INFO]: [VaporizingLuck: Enabling data pack [file/VanillaTweaks_r731543.zip (world)]]
+[14:26:59] [Server thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[14:26:59] [Server thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[14:26:59] [Server thread/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[14:26:59] [Server thread/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[14:26:59] [Server thread/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[14:26:59] [Server thread/INFO]: Loaded 7 recipes
+[14:26:59] [Server thread/WARN]: Datapack tried to redefine minecraft:empty loot table, ignoring
+[14:27:00] [Server thread/WARN]: Found validation problem in {minecraft:blocks/deepslate_copper_ore}.pools[0].entries[0]: Unreachable entry!
+[14:27:00] [Server thread/WARN]: Found validation problem in {minecraft:blocks/redstone_ore}.pools[0].entries[0]: Unreachable entry!
+[14:27:00] [Server thread/WARN]: Found validation problem in {minecraft:blocks/deepslate_redstone_ore}.pools[0].entries[0]: Unreachable entry!
+[14:27:00] [Server thread/WARN]: Found validation problem in {minecraft:entities/ender_dragon}.pools[0].entries[0]: Unknown loot table called minecraft:entities/reference/extra/ender_dragon
+[14:27:00] [Server thread/WARN]: Found validation problem in {minecraft:blocks/nether_gold_ore}.pools[0].entries[0]: Unreachable entry!
+[14:27:00] [Server thread/WARN]: Found validation problem in {minecraft:entities/shulker}.pools[2].entries[0]: Unknown loot table called minecraft:entities/reference/extra/shulker
+[14:27:00] [Server thread/WARN]: Found validation problem in {minecraft:blocks/lapis_ore}.pools[0].entries[0]: Unreachable entry!
+[14:27:00] [Server thread/WARN]: Found validation problem in {minecraft:blocks/deepslate_lapis_ore}.pools[0].entries[0]: Unreachable entry!
+[14:27:00] [Server thread/WARN]: Found validation problem in {minecraft:blocks/copper_ore}.pools[0].entries[0]: Unreachable entry!
+[14:27:00] [Server thread/INFO]: Loaded 1194 advancements
+[14:27:12] [Server thread/INFO]: PurpleExorcist has made the advancement [Not Today, Thank You]
+[14:27:42] [Server thread/INFO]: VaporizingLuck has made the advancement [Acquire Hardware]
+[14:28:19] [Server thread/INFO]: VaporizingLuck has made the advancement [Isn't It Iron Pick]
+[14:28:35] [Server thread/INFO]: Digicraftgames has made the advancement [Stone Age]
+[14:28:49] [Server thread/INFO]: [Server] WOOOOOOOOOOOOO
+[14:29:20] [Server thread/INFO]: Digicraftgames has made the advancement [Getting an Upgrade]
+[14:30:48] [Server thread/INFO]: VaporizingLuck has made the advancement [Diamonds!]
+[14:31:59] [Server thread/INFO]: EisigNacht was impaled on a stalagmite
+[14:32:22] [Server thread/INFO]: PurpleExorcist has made the advancement [Diamonds!]
+[14:32:54] [Server thread/INFO]: VaporizingLuck tried to swim in lava
+[14:36:34] [Server thread/INFO]: VaporizingLuck lost connection: Disconnected
+[14:36:34] [Server thread/INFO]: VaporizingLuck left the game
+[14:37:21] [Server thread/INFO]: Digicraftgames has made the advancement [Acquire Hardware]
+[14:37:46] [User Authenticator #5/INFO]: UUID of player VaporizingLuck is 25a7a084-2b98-47e1-b7de-e85c35e2d714
+[14:37:46] [Server thread/INFO]: VaporizingLuck[/192.168.1.1:58942] logged in with entity id 14325 at (31.466741848347112, 86.0, -185.10679976489368)
+[14:37:46] [Server thread/INFO]: VaporizingLuck joined the game
+[14:40:51] [Server thread/INFO]: <EisigNacht> Aussie! Aussie! Aussie!
+[14:40:55] [Server thread/INFO]: <EisigNacht> Oi! Oi! Oi!
+[14:41:04] [Server thread/INFO]: EisigNacht has made the advancement [Acquire Hardware]
+[14:41:20] [Server thread/INFO]: EisigNacht has made the advancement [Isn't It Iron Pick]
+[14:41:23] [Server thread/INFO]: Digicraftgames has made the advancement [Isn't It Iron Pick]
+[14:42:09] [Server thread/INFO]: EisigNacht has made the advancement [Suit Up]
+[14:42:25] [Server thread/INFO]: VaporizingLuck has made the advancement [Best Friends Forever]
+[14:42:36] [Server thread/INFO]: <EisigNacht> This is Foxtrot, going dark.
+[14:42:40] [Server thread/INFO]: <PurpleExorcist> xD
+[14:43:00] [Server thread/INFO]: <PurpleExorcist> Tango, Where's Foxtrot
+[14:43:05] [Server thread/INFO]: <PurpleExorcist> Gamma you read me?
+[14:43:08] [Server thread/INFO]: <Digicraftgames> get the dog
+[14:44:02] [Server thread/INFO]: Digicraftgames has made the advancement [The Cutest Predator]
+[14:44:34] [Server thread/INFO]: PurpleExorcist has made the advancement [Tactical Fishing]
+[14:45:07] [Server thread/INFO]: VaporizingLuck has made the advancement [Ice Bucket Challenge]
+[14:46:30] [Server thread/INFO]: <EisigNacht> This is Foxtrot, tango spotted! We're surrounded and running low on supplies!
+[14:46:36] [Server thread/INFO]: <Digicraftgames> yellow pink brown
+[14:47:20] [Server thread/INFO]: Digicraftgames has made the advancement [Monster Hunter]
+[14:48:29] [Server thread/INFO]: <EisigNacht> FREEDOM!
+[14:52:15] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-238, y=7, z=149} gj{x=-238, y=9, z=148}
+[14:53:38] [Server thread/INFO]: <Digicraftgames> -345 8 175
+[14:55:50] [Server thread/INFO]: <PurpleExorcist> -260 140
+[15:01:28] [Server thread/INFO]: EisigNacht has made the advancement [Best Friends Forever]
+[15:02:55] [Server thread/INFO]: PurpleExorcist has made the advancement [Cover Me with Diamonds]
+[15:03:33] [Server thread/INFO]: Digicraftgames has made the advancement [Suit Up]
+[15:07:01] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-40, y=76, z=-249} gj{x=-40, y=76, z=-248}
+[15:09:28] [Server thread/INFO]: <PurpleExorcist> -281
+[15:09:32] [Server thread/INFO]: <PurpleExorcist> 72
+[15:09:39] [Server thread/INFO]: <Digicraftgames> -281 -25 75
+[15:15:46] [Server thread/INFO]: [Digicraftgames: Teleported EisigNacht to Digicraftgames]
+[15:19:06] [Server thread/INFO]: Digicraftgames has made the advancement [Diamonds!]
+[15:19:52] [Server thread/INFO]: <EisigNacht> I got a bucket
+[15:20:08] [Server thread/INFO]: <EisigNacht> ~NOTHING~
+[15:21:51] [Server thread/INFO]: VaporizingLuck has made the advancement [Suit Up]
+[15:25:37] [Server thread/INFO]: <Digicraftgames> feather???
+[15:25:47] [Server thread/INFO]: <Digicraftgames> feather=leather
+[15:25:50] [Server thread/INFO]: <EisigNacht> Teather?
+[15:29:21] [Server thread/INFO]: <Digicraftgames> -289 -31 61
+[15:33:54] [Server thread/INFO]: PurpleExorcist has completed the challenge [Great View From Up Here]
+[15:35:03] [Server thread/INFO]: Digicraftgames was shot by Skeleton
+[15:36:29] [Server thread/INFO]: EisigNacht has made the advancement [Diamonds!]
+[15:36:54] [Server thread/INFO]: PurpleExorcist has made the advancement [The Cutest Predator]
+[15:39:37] [Server thread/INFO]: VaporizingLuck has made the advancement [Take Aim]
+[15:40:37] [Server thread/INFO]: Digicraftgames was shot by Skeleton
+[15:40:46] [Server thread/INFO]: [VaporizingLuck: Teleported Digicraftgames to PurpleExorcist]
+[15:46:06] [Server thread/INFO]: Digicraftgames burned to death
+[15:50:27] [Server thread/INFO]: <Digicraftgames> spawn is @ -93 70 -171
+[15:53:28] [Server thread/INFO]: PurpleExorcist has made the advancement [Best Friends Forever]
+[15:53:44] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-203, y=30, z=69} gj{x=-69, y=66, z=-161}
+[15:53:44] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-203, y=30, z=69} gj{x=-69, y=67, z=-161}
+[15:53:46] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-203, y=30, z=69} gj{x=-69, y=67, z=-161}
+[15:54:28] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-203, y=30, z=69} gj{x=-91, y=68, z=-165}
+[15:58:18] [Server thread/INFO]: [Digicraftgames: Created team [blue]]
+[15:58:24] [Server thread/INFO]: [Digicraftgames: Added Digicraftgames to team [blue]]
+[15:58:31] [Server thread/INFO]: [Digicraftgames: Added j to team [blue]]
+[15:58:35] [Server thread/INFO]: [Digicraftgames: Added Digicraftgames to team [blue]]
+[15:58:52] [Server thread/INFO]: [Digicraftgames: Updated the color for team [blue] to dark_aqua]
+[15:58:58] [Server thread/INFO]: <Digicraftgames> hi
+[15:59:00] [Server thread/INFO]: <PurpleExorcist> WOO
+[15:59:03] [Server thread/INFO]: [VaporizingLuck: Created team [DooDooHead]]
+[15:59:21] [Server thread/INFO]: [VaporizingLuck: Created team [PurpleExorcist]]
+[15:59:40] [Server thread/INFO]: [VaporizingLuck: Updated the color for team [DooDooHead] to gold]
+[15:59:48] [Server thread/INFO]: <PurpleExorcist> EisigNacht
+[15:59:55] [Server thread/INFO]: [Digicraftgames: Created team [icy]]
+[16:00:01] [Server thread/INFO]: [VaporizingLuck: Added PurpleExorcist to team [DooDooHead]]
+[16:00:07] [Server thread/INFO]: [Digicraftgames: Updated the color for team [icy] to aqua]
+[16:00:17] [Server thread/INFO]: [Digicraftgames: Added EisigNacht to team [icy]]
+[16:00:23] [Server thread/INFO]: [VaporizingLuck: Created team [D]]
+[16:00:38] [Server thread/INFO]: <PurpleExorcist> Purple
+[16:00:47] [Server thread/INFO]: <EisigNacht> Ooo~
+[16:00:51] [Server thread/INFO]: [VaporizingLuck: Updated the color for team [D] to black]
+[16:00:51] [Server thread/INFO]: [Digicraftgames: Updated the color for team [PurpleExorcist] to light_purple]
+[16:00:57] [Server thread/INFO]: [VaporizingLuck: Added VaporizingLuck to team [D]]
+[16:01:14] [Server thread/INFO]: [Digicraftgames: Added PurpleExorcist to team [PurpleExorcist]]
+[16:01:32] [Server thread/INFO]: [Digicraftgames: Updated the color for team [PurpleExorcist] to dark_purple]
+[16:02:43] [Server thread/INFO]: [VaporizingLuck: Updated the color for team [icy] to white]
+[16:03:05] [Server thread/INFO]: Digicraftgames was shot by Skeleton
+[16:04:50] [Server thread/INFO]: [VaporizingLuck: Kicked EisigNacht: Network Error]
+[16:04:50] [Server thread/INFO]: EisigNacht lost connection: Network Error
+[16:04:50] [Server thread/INFO]: EisigNacht left the game
+[16:05:09] [User Authenticator #6/INFO]: UUID of player EisigNacht is 811babaa-79f2-49fb-94f3-128fddcf0392
+[16:05:09] [Server thread/INFO]: EisigNacht[/71.236.111.96:58681] logged in with entity id 65797 at (72.48662425507224, 111.0, -247.60848446233754)
+[16:05:09] [Server thread/INFO]: EisigNacht joined the game
+[16:12:57] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=98, y=104, z=-170} gj{x=102, y=104, z=-170}
+[16:15:49] [Server thread/INFO]: Digicraftgames has made the advancement [Tactical Fishing]
+[16:15:55] [Server thread/INFO]: VaporizingLuck has made the advancement [Sweet Dreams]
+[16:18:16] [Server thread/INFO]: [Digicraftgames: Changed the block at 102, 104, -165]
+[16:18:33] [Server thread/INFO]: PurpleExorcist has made the advancement [Ice Bucket Challenge]
+[16:18:45] [Server thread/INFO]: [Digicraftgames: Changed the block at 102, 104, -165]
+[16:18:58] [Server thread/INFO]: [Digicraftgames: Changed the block at 102, 104, -165]
+[16:19:11] [Server thread/INFO]: [Digicraftgames: Changed the block at 102, 104, -165]
+[16:19:36] [Server thread/INFO]: [PurpleExorcist: Triggered [TellrawEnch] (set value to 3)]
+[16:19:49] [Server thread/INFO]: [PurpleExorcist: Triggered [TellrawEnch] (set value to 5)]
+[16:19:55] [Server thread/INFO]: [PurpleExorcist: Triggered [TellrawEnch] (set value to 16)]
+[16:20:02] [Server thread/INFO]: [PurpleExorcist: Triggered [TellrawEnch] (set value to 31)]
+[16:20:07] [Server thread/INFO]: [PurpleExorcist: Triggered [TellrawEnch] (set value to 21)]
+[16:20:11] [Server thread/INFO]: [PurpleExorcist: Triggered [TellrawEnch] (set value to 65)]
+[16:20:16] [Server thread/INFO]: [PurpleExorcist: Triggered [TellrawEnch] (set value to 68)]
+[16:20:23] [Server thread/INFO]: [PurpleExorcist: Triggered [TellrawEnch] (set value to 17)]
+[16:20:30] [Server thread/INFO]: [PurpleExorcist: Triggered [TellrawEnch] (set value to 45)]
+[16:20:37] [Server thread/INFO]: [PurpleExorcist: Triggered [TellrawEnch] (set value to 15)]
+[16:20:42] [Server thread/INFO]: [PurpleExorcist: Triggered [TellrawEnch] (set value to 62)]
+[16:20:47] [Server thread/INFO]: [PurpleExorcist: Triggered [TellrawEnch] (set value to 51)]
+[16:21:01] [Server thread/INFO]: [PurpleExorcist: Triggered [TellrawEnch] (set value to 8)]
+[16:21:10] [Server thread/INFO]: VaporizingLuck lost connection: Disconnected
+[16:21:10] [Server thread/INFO]: VaporizingLuck left the game
+[16:21:20] [Server thread/INFO]: [PurpleExorcist: Triggered [TellrawEnch] (set value to 7)]
+[16:21:28] [Server thread/INFO]: [PurpleExorcist: Triggered [TellrawEnch] (set value to 1)]
+[16:22:06] [Server thread/INFO]: [Digicraftgames: Triggered [TellrawEnch] (set value to 7)]
+[16:22:36] [Server thread/INFO]: [Digicraftgames: Triggered [TellrawEnch] (set value to 9)]
+[16:22:40] [Server thread/INFO]: [Digicraftgames: Triggered [TellrawEnch] (set value to 5)]
+[16:22:45] [Server thread/INFO]: PurpleExorcist has made the advancement [A Seedy Place]
+[16:22:47] [Server thread/INFO]: [Digicraftgames: Triggered [TellrawEnch] (set value to 11)]
+[16:23:28] [Server thread/INFO]: <Digicraftgames> life steal,poison aspect,xp boost, attack speed, bloody blade,
+[16:23:41] [Server thread/INFO]: [Digicraftgames: Triggered [TellrawEnch] (set value to 21)]
+[16:23:58] [Server thread/INFO]: <Digicraftgames> auto smelt,chopping, haste,timber
+[16:24:34] [Server thread/INFO]: Digicraftgames has made the advancement [A Seedy Place]
+[16:24:54] [Server thread/INFO]: <EisigNacht> Selling stack of (ugly) birch for 3 iron ingots.
+[16:24:58] [Server thread/INFO]: <PurpleExorcist> no
+[16:25:09] [Server thread/INFO]: <PurpleExorcist> I have only copper
+[16:25:09] [Server thread/INFO]: <EisigNacht> How about 3 gold?
+[16:25:12] [Server thread/INFO]: <EisigNacht> Oh
+[16:25:39] [Server thread/INFO]: [Digicraftgames: Triggered [TellrawEnch] (set value to 5)]
+[16:25:41] [Server thread/INFO]: [Digicraftgames: Triggered [TellrawEnch] (set value to 23)]
+[16:26:03] [Server thread/INFO]: EisigNacht has made the advancement [Sweet Dreams]
+[16:26:25] [Server thread/INFO]: Digicraftgames lost connection: Disconnected
+[16:26:25] [Server thread/INFO]: Digicraftgames left the game
+[16:28:59] [Server thread/INFO]: [PurpleExorcist: Triggered [TellrawEnch] (set value to 4)]
+[16:29:07] [Server thread/INFO]: [PurpleExorcist: Triggered [TellrawEnch] (set value to 9)]
+[16:30:15] [Server thread/INFO]: PurpleExorcist has made the advancement [Take Aim]
+[16:33:10] [User Authenticator #7/INFO]: UUID of player Digicraftgames is 78dc415f-ee86-43ef-9523-ef67535d8e17
+[16:33:10] [Server thread/INFO]: Digicraftgames[/71.236.111.96:51226] logged in with entity id 77214 at (90.66109779532862, 107.0, -155.66037182196328)
+[16:33:10] [Server thread/INFO]: Digicraftgames joined the game
+[16:33:13] [Server thread/INFO]: [Digicraftgames: Set own game mode to Creative Mode]
+[16:33:41] [Server thread/INFO]: [Digicraftgames: Set own game mode to Survival Mode]
+[16:33:55] [User Authenticator #8/INFO]: UUID of player VaporizingLuck is 25a7a084-2b98-47e1-b7de-e85c35e2d714
+[16:33:55] [Server thread/INFO]: VaporizingLuck[/192.168.1.1:62851] logged in with entity id 77308 at (461.069454774492, 88.0, -269.1710806522816)
+[16:33:55] [Server thread/INFO]: VaporizingLuck joined the game
+[16:34:34] [Server thread/INFO]: [Digicraftgames: Gave 1 [Bundle] to VaporizingLuck]
+[16:36:39] [Server thread/INFO]: [Digicraftgames: Triggered [TellrawEnch] (set value to 4)]
+[16:37:46] [Server thread/INFO]: VaporizingLuck has made the advancement [Who is Cutting Onions?]
+[16:40:48] [Server thread/INFO]: Digicraftgames has completed the challenge [Great View From Up Here]
+[16:42:01] [Server thread/INFO]: EisigNacht has completed the challenge [Great View From Up Here]
+[16:49:09] [Server thread/INFO]: EisigNacht has made the advancement [Take Aim]
